@@ -36,4 +36,4 @@ The paper detailed a simulation of a two-phase separator for oil and gas separat
 
 # Questions
 - Why $R=P+S$ instead of the product as is typical in risk calculation?
-- 
+- This assumption reflects the current state of AI development, where AI lacks the ability to perceive human value judgments and does not possess human-like perception or cognitive capabilities.
