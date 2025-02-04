@@ -22,7 +22,8 @@ Effective IA systems will allow for human-AI collaboration in which input flows 
 Conflicts may arise due to observation, interpretation, and control actions.
 
 ### Observation Conflict
-Observation conflict is the disagreement between data sensed by the agents. This 
+Observation conflict is the disagreement between data sensed by the agents. This may result from human error in observation or in sensor error. 
+$$Observation\ Conflict:\ \ O_C=|O_H-O_{AI}|$$
 
 
 # Methodology
