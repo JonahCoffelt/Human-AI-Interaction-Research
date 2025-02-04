@@ -16,7 +16,7 @@ The risk of using strictly in AI systems in industry has led to the pursuit of c
 Although the development of fully autonomous systems is being pursed, particularly with neuro-symbolic AI, it is more realistic to expect applications of AI to be a collaborative effort between humans and AI. The failure of systems to properly account and allow for human-AI collaboration often can lead to conflicts and hazardous situations. 
 
 ## Human and AI operations in IA systems
-
+Effective IA systems will allow for human-AI collaboration in which input flows both ways.
 
 # Definitions
 
