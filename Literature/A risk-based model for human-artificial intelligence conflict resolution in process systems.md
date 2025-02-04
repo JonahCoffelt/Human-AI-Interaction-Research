@@ -12,7 +12,7 @@ link: https://www.sciencedirect.com/science/article/pii/S2772508124000565
 # Summary
 The paper proposes a model to quantify and resolve conflicts which result from discrepancies in human and AI observation, interpretation, and action. The mathematical model is based on conventional human conflict resolution mechanisms. The authors claim the model promotes human-AI collaboration with real-time response to human input. 
 ## Introduction
-Although AI has developed human-like skills, their decision making deviates from human expectations. This phenomenon is described as human-AI conflict, which can often be "mistakenly interpreted as faults, failures, or cyberattacks". Because of the anthropomorphic characteristics  of AI decision making, a potential solution could be to use human-human conflict resolutions models such as  the Thomas-Kilmann Instrument. Currently, control systems "lack the capability to perceive and integrate human observations and actions with the data they collect", which prevents human-AI collaboration in their use cases. With this problem in mind, the paper seeks to address four problems:
+Although AI has developed human-like skills, their decision making deviates from human expectations. This phenomenon is described as human-AI conflict, which can often be "mistakenly interpreted as faults, failures, or cyberattacks". Because of the anthropomorphic characteristics  of AI decision making, a potential solution could be to use human-human conflict resolutions models such as  the Thomas-Kilmann Instrument (TKI). Currently, control systems "lack the capability to perceive and integrate human observations and actions with the data they collect", which prevents human-AI collaboration in their use cases. With this problem in mind, the paper seeks to address four problems:
 
 1) How to best mathematically represent the evolving conflict between humans and AI?
 2) What are the strategies of conflict resolution?
@@ -20,7 +20,11 @@ Although AI has developed human-like skills, their decision making deviates from
 4) How do we adapt the well-established social conflict resolution strategies to human-AI conflict resolution?
 
 ## Methodology
+Adapts the TKI model as a risk model. Comprised of three steps
 
+1) Construct the conflict risk representations by measuring the agreement level of interpretations and actions.
+2) Propose mathematical equations to measure conflict probability
+3) Develop conflict resolution strategies by minimizing the conflict risk.
 
 # Models, Datasets, Algorithms
 
