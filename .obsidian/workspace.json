@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4f2dfafe2b2dbeb4",
+        "id": "abb8c9cb8ba98cd4",
         "type": "tabs",
         "children": [
           {
-            "id": "213dbe314097c570",
+            "id": "6f4cc5de738fe1f7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250203210358.png"
+                "file": "Literature/A risk-based model for human-artificial intelligence conflict resolution in process systems.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250203210358"
+              "icon": "lucide-file",
+              "title": "A risk-based model for human-artificial intelligence conflict resolution in process systems"
             }
           }
         ]
@@ -196,7 +198,9 @@
   "active": "90d84b5727fa396c",
   "lastOpenFiles": [
     "Literature/A risk-based model for human-artificial intelligence conflict resolution in process systems.md",
+    "Images",
     "Pasted image 20250203210358.png",
+    "Images/Pasted image 20250203210646.png",
     "Literature/Artificial intelligence – Human intelligence conflict and its impact on process system safety.md",
     "Literature/Towards Modeling Human-Agentic Collaborative Workflows – A BPMN Extension.md",
     "Literature/Flow – A Modular Approach to Automated Agentic Workflow Generation.md",
