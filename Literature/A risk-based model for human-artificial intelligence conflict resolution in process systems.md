@@ -26,5 +26,8 @@ Adapts the TKI model as a risk model. Comprised of three steps
 2) Propose mathematical equations to measure conflict probability
 3) Develop conflict resolution strategies by minimizing the conflict risk.
 
+## The Model
+Generally, the model lies on a two axis plane, where the $x$ is the agreement of interpretation and $y$ is agreement of actions. 
+
 # Models, Datasets, Algorithms
 
