@@ -6,8 +6,6 @@ author: He Wen, Faisal Khan
 year: 2024
 link: https://www.sciencedirect.com/science/article/pii/S2772508124000565
 ---
-# Take Away Points
-- 
 
 # Summary
 The paper proposes a model to quantify and resolve conflicts which result from discrepancies in human and AI observation, interpretation, and action. The mathematical model is based on conventional human conflict resolution mechanisms. The authors claim the model promotes human-AI collaboration with real-time response to human input. 
@@ -32,3 +30,6 @@ Generally, the model lies on a two axis plane, where the $x$ is the agreement of
 ![](Images/20250203210646.png)
 
 This model suggests that risk may be minimized by minimizing $P$ and $S$.
+
+## Application
+The paper detailed a simulation of a two-phase separator for oil and gas separation in which there was a human operator and AI controller. Throughout the simulation, the AI system was detecting normal levels while the human observed the oil rising beyond normal levels. This difference in observations led to a conflict in which the human first fought the AI's action and eventually overrode the AI controller entirely. To minimize the risk of a conflict like this, the AI should be able to receive some input from the human so there is less of a difference in observation. 
