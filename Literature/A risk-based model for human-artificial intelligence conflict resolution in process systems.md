@@ -27,7 +27,8 @@ Adapts the TKI model as a risk model. Comprised of three steps
 3) Develop conflict resolution strategies by minimizing the conflict risk.
 
 ## The Model
-Generally, the model lies on a two axis plane, where the $x$ is the agreement of interpretation and $y$ is agreement of actions. The model proposes a vector for the human $(x_h, y_h)$ and a vector for the AI $(x_a, y_a)$. The angle between these two vectors $\Delta \theta$ is correlated to the probability of conflict $P$, and the difference in magnitude $\Delta y$ is correlated to the severity of a potential conflict $S$. 
+Generally, the model lies on a two axis plane, where the $x$ is the agreement of interpretation and $y$ is agreement of actions. The model proposes a vector for the human $(x_h, y_h)$ and a vector for the AI $(x_a, y_a)$. The angle between these two vectors $\Delta \theta$ is correlated to the probability of conflict $P$, and the difference in magnitude $\Delta y$ is correlated to the severity of a potential conflict $S$. The risk is the sum of the probability and severity of conflict, $R=P+S$.
 
-# Models, Datasets, Algorithms
+![[Pasted image 20250203210358.png]]
 
+This model suggests that risk may be minimized by minimizing $P$ and $S$.
