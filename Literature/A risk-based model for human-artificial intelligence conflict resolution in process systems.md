@@ -33,3 +33,7 @@ This model suggests that risk may be minimized by minimizing $P$ and $S$.
 
 ## Application
 The paper detailed a simulation of a two-phase separator for oil and gas separation in which there was a human operator and AI controller. Throughout the simulation, the AI system was detecting normal levels while the human observed the oil rising beyond normal levels. This difference in observations led to a conflict in which the human first fought the AI's action and eventually overrode the AI controller entirely. To minimize the risk of a conflict like this, the AI should be able to receive some input from the human so there is less of a difference in observation. 
+
+# Questions
+- Why $R=P+S$ instead of the product as is typical in risk calculation?
+- 
