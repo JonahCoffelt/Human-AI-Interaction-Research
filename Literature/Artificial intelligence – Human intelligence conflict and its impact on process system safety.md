@@ -26,7 +26,13 @@ Observation conflict is the disagreement between data sensed by the agents. This
 
 Observation conflict: $O_C=|O_H-O_{AI}|$
 
-...
+Typically, this will be quantified with a Gaussian distribution in which the observation is quantified by variation from the mean. There is a conflict if the agents disagree on the status of the system.
+
+### Interpretation conflict 
+Observation conflict is the disagreement in interpretation of the data  received by the agent. This may be caused by differences in decision making or as a result of observation conflicts. 
+
+Interpretation conflict: $I_C=|I_H-I_{AI}|$
+
 
 # Methodology
 
