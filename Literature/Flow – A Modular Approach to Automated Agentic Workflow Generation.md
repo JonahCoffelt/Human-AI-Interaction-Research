@@ -38,5 +38,14 @@ The authors use an LLM to generate a set of candidate graphs $\{G_1, G_2, ...\}$
 ### Execution Plan
 A topological sort is used to produce a linear ordering of steps containing tasks which may be completed in parallel. Agents are then assigned tasks based on their capabilities (Not sure what this means, I think it is a prompt thing though?). 
 
+### Workflow Refinement and Dynamic Updating
+The authors use another LLM as an inspector to update the AOV. The LLM is given requirements, the current graph, and data containing the status of tasks and output. The LLM continuously monitors tasks progression and updates the workflow as needed. The update is a similar process to the initial generation, where LLM produces a set of candidates and the best one is chosen. 
+
 ![](Pasted%20image%2020250214002956.png)
 
+## Experiments and Results
+The authors applied their model to three design workflows: 1) Website development 2) LaTeX Beamer slide creation, and 3) interactive game development. In all cases, the model was able to outperform current workflow models. See the paper for specific details on results.
+
+### Relevance to our Topic
+- **Model Adaptations:** Their model incorporates many AI agents in a unified and efficient workflow, but they do not consider the introduction of a human agent into the workflow. It could be interesting to see how this model could be modified to better implement human-AI workflows. The focus on modularity could certainly help to distinguish human tasks from AI tasks and allow for these agents to work together as the AI agents did.
+- **Information and Interface presentation**: The paper's experiments include the consideration of how data, information, and interfaces are presented to human users. For example, the game created by the agents included UI that was tailored for humans. The 
