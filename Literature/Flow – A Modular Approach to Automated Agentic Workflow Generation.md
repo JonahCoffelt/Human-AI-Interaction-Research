@@ -11,7 +11,7 @@ link: https://arxiv.org/abs/2501.07834
 - 
 
 # Summary
-
+Flow introduces a multi-agent workflow that dynamically assigns tasks and creates agent topology. The model emphasizes a modular approach which maximizes parallelism and minimizes task interdependency and complexity. 
 
 # Definitions
 
