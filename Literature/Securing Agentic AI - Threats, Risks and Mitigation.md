@@ -17,3 +17,6 @@ Adversaries may make AI suggest or provide suggestions which lead to security ri
 Internal or external attackers could feed AI " contaminated or detrimental data into the knowledge base so that it produces wrong or unsolicited outcomes.". This could result in exploitable vulnerabilities in the platforms or result in altered AI agent behavior in systems. 
 
 ## Goal and Instruction Manipulation
+
+
+## Jailbreaking and Control Hijacking
