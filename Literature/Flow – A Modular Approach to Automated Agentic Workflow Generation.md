@@ -36,3 +36,7 @@ $$C_{dependency} = \sqrt{\frac{1}{|V|} \sum_{v_i\in V} (deg(v_i) - \overline d)^
 The authors use an LLM to generate a set of candidate graphs $\{G_1, G_2, ...\}$. The initial graph is chosen first by the highest parallelism score, then by the lowest dependency complexity. Parallelism is prioritized in the early stages to avoid sequential workflows which would hinder the modularity in the long term.
 
 ### Execution Plan
+A topological sort is used to produce a linear ordering of steps containing tasks which may be completed in parallel. Agents are then assigned tasks based on their capabilities (Not sure what this means, I think it is a prompt thing though?). 
+
+![](Pasted%20image%2020250214002956.png)
+
