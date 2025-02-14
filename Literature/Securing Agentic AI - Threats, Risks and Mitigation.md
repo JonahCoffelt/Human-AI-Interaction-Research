@@ -14,3 +14,6 @@ The paper identifies potential securities risks that arise from the increased us
 Adversaries may make AI suggest or provide suggestions which lead to security risks. For example, the AI may suggest the use of non-existent software library. An attacker may develop an interface under this name and have it integrated into the system, potentially giving the attacker access servers or back end systems. 
 
 ## Knowledge Base Poisoning
+Internal or external attackers could feed AI " contaminated or detrimental data into the knowledge base so that it produces wrong or unsolicited outcomes.". This could result in exploitable vulnerabilities in the platforms or result in altered AI agent behavior in systems. 
+
+## Goal and Instruction Manipulation
