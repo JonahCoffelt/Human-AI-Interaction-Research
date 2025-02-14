@@ -48,4 +48,4 @@ The authors applied their model to three design workflows: 1) Website developmen
 
 ### Relevance to our Topic
 - **Model Adaptations:** Their model incorporates many AI agents in a unified and efficient workflow, but they do not consider the introduction of a human agent into the workflow. It could be interesting to see how this model could be modified to better implement human-AI workflows. The focus on modularity could certainly help to distinguish human tasks from AI tasks and allow for these agents to work together as the AI agents did.
-- **Information and Interface presentation**: The paper's experiments include the consideration of how data, information, and interfaces are presented to human users. For example, the game created by the agents included UI that was tailored for humans. The 
+- **Information and Interface presentation**: The paper's experiments include the consideration of how data, information, and interfaces are presented to human users. For example, the game created by the agents included UI that was tailored for humans. It could be interesting to see how these types of antigenic workflows could improve AI-Human communication.
