@@ -22,7 +22,7 @@ $$G=(V, E, A)$$
 ### Parallelism
 Let $S_t$ represent the set of tasks executed at step $t$. The degree of parallelism at a step is given by the ratio of the number of tasks in that step to the total number of tasks.
 $$P(t) = \frac{|S_t|}{|V|}$$
-We may capture the parallelism of a given AOV by averaging $P(t)$ over all steps
+We may capture the parallelism of a given AOV graph by averaging $P(t)$ over all steps
 $$P_{avg} = \frac1T \sum_{t=1}^{T}P(t)$$
 ### Dependency Complexity
 The measure of parallelism alone does not capture the modularity of tasks which can be completed independently of others. For each task $v_i$, the degree $deg(v_i)$ will be the number of connections the node has in the graph $G$. Like we did with parallelism, we will average the degree of all tasks to find $\overline d$:
