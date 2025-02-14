@@ -20,3 +20,4 @@ Internal or external attackers could feed AI " contaminated or detrimental data 
 
 
 ## Jailbreaking and Control Hijacking
+Attackers could use prompts that bypass the security measures and restrictions placed on an AI model. This can allow the attacker to execute unlawful commands. This would allow 
