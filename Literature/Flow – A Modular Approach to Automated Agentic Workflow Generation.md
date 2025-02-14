@@ -7,9 +7,6 @@ author: Boye Niu, Yiliao Song, Kai Lian, Yifan Shen, Yu Yao, Kun Zhang, Tonglian
 year: 2025
 link: https://arxiv.org/abs/2501.07834
 ---
-# Take Away Points
-- 
-
 # Summary
 Flow introduces a multi-agent workflow that dynamically assigns tasks and creates agent topology. The model emphasizes a modular approach which maximizes parallelism and minimizes task interdependency and complexity. This approach allows the workflow to adapt to challenges and conditions in real-time. Results of the model show improved workflow efficiency. 
 
