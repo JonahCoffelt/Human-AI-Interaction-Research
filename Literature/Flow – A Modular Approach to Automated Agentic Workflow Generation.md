@@ -23,4 +23,16 @@ $$G=(V, E, A)$$
 - $A$: the set of all agents
 
 ### Parallelism
-Let $S_t$ represent the set of tasks executed at step $t$. The degree of parallelism at a step is given by the ratio
+Let $S_t$ represent the set of tasks executed at step $t$. The degree of parallelism at a step is given by the ratio of the number of tasks in that step to the total number of tasks.
+$$P(t) = \frac{|S_t|}{|V|}$$
+We may capture the parallelism of a given AOV by averaging $P(t)$ over all steps
+$$P_{avg} = \frac1T \sum_{t=1}^{T}P(t)$$
+### Dependency Complexity
+The measure of parallelism alone does not capture the modularity of tasks which can be completed independently of others. For each task $v_i$, the degree $deg(v_i)$ will be the number of connections the node has in the graph $G$. Like we did with parallelism, we will average the degree of all tasks to find $\overline d$:
+$$\overline d = \frac{1}{|V|} \sum_{v_i\in V} deg(v_i)$$
+The complexity of task dependencies is then quantified by the standard deviation of the degree distribution:
+$$C_{dependency} = \sqrt{\frac{1}{|V|} \sum_{v_i\in V} (deg(v_i) - \overline d)^2}$$
+### Initial AOV
+The authors use an LLM to generate a set of candidate graphs $\{G_1, G_2, ...\}$. The initial graph is chosen first by the highest parallelism score, then by the lowest dependency complexity. Parallelism is prioritized in the early stages to avoid sequential workflows which would hinder the modularity in the long term.
+
+### Execution Plan
