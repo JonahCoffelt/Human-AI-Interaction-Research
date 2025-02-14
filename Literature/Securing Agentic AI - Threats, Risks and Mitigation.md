@@ -26,3 +26,7 @@ Memory poisoning or context erasure could make the agent forget important contex
 Multi-agent systems are susceptible to probing, repudiation, flooding, impersonation and denial of service (DoS) attacks. The failure of a single agent could undermine the entire system. 
 - It could be interesting to see how [Flow](Flow%20–%20A%20Modular%20Approach%20to%20Automated%20Agentic%20Workflow%20Generation.md) as a modular approach could potentially help to mitigate this issue.
 - More information on this topic in [Security of Multi-Agent Cyber-Physical Systems](Security%20of%20Multi-Agent%20Cyber-Physical%20Systems.md) 
+
+# Further Reading
+- [AI Agents Under Threat](AI%20Agents%20Under%20Threat.md)
+- 
