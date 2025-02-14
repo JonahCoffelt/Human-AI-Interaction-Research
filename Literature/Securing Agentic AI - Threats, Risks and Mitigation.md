@@ -8,3 +8,9 @@ link: https://www.researchgate.net/profile/S-M-Zia-Ur-Rashid/publication/3884935
 ---
 # Introduction
 The paper identifies potential securities risks that arise from the increased use of AI in enterprise applications. The paper seeks to lays these risks out to lay the groundwork for further research in the topic. 
+
+# Attack Vectors
+## Hallucination Exploitation
+Adversaries may make AI suggest or provide suggestions which lead to security risks. For example, the AI may suggest the use of non-existent software library. An attacker may develop an interface under this name and have it integrated into the system, potentially giving the attacker access servers or back end systems. 
+
+## Knowledge Base Poisoning
