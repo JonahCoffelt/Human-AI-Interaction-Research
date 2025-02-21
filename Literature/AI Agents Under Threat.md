@@ -23,3 +23,5 @@ In relation to an AI agent:
 - **Reasoning**: An LLM designed to analyze and deduce information to draw conclusions from given prompts. 
 - **Planning**: An LLM designed to devise strategies and make decisions by evaluating possible outcomes. 
 - **Brain**: The combination of reasoning and planning LLMs.
+
+# Intra-execution Security
