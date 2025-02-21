@@ -11,8 +11,8 @@ The paper identifies four knowledge gaps in AI agent security:
 1. Unpredictability of multi-step user inputs
 	- User inputs may be inadequately described or involve multiple steps. Insufficient specification can lead to failed tasks, unintentional results, or security threats. Malicious users may also attempt to influence the AI agent to execute unsafe code or action.
 2. Complexity in internal executions
-	- 
+	- Internal executions are often complex chain-loop structures. It can be difficult to observe the internal state and detect threats in a timely manner.
 3. Variability of operational environments
-	- 
+	- Variability in the environment the AI agent is acting, specifically from development to deployment, in can produce inconsistent and potentially dangerous results.
 4. Interactions with untrusted external entities
 	- 
