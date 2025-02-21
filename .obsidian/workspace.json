@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Detailed Notes/Untitled.md",
+                "file": "Definitions/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -212,8 +212,11 @@
   },
   "active": "a2fa2567f71c04f6",
   "lastOpenFiles": [
+    "Definitions/AI.md",
+    "Definitions/Untitled.md",
+    "Detailed Notes/Definitions.md",
+    "Definitions",
     "Meeting Notes/02-18-25.md",
-    "Detailed Notes/Untitled.md",
     "Detailed Notes",
     "Literature/A risk-based model for human-artificial intelligence conflict resolution in process systems.md",
     "Literature/Flow – A Modular Approach to Automated Agentic Workflow Generation.md",
