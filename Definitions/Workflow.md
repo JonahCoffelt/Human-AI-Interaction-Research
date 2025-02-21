@@ -1,1 +1,1 @@
-A series of tasks run in sequence or 
+A series of tasks run in sequence or parallel aimed at a particular goal.
