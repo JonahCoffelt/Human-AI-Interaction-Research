@@ -1,0 +1,1 @@
+Technology that acts physically or symbolically so that it optimizes a specific complex goal through information processing of data collected from its perceived environment. AI can either use symbolic rules or numeric modeling, and includes several approaches such as machine learning, machine reasoning, and robotics.
