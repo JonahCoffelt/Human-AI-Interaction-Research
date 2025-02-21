@@ -1,1 +1,1 @@
-An approach for generating modular workflows that maximize parallelism and minimize dependency complexity. 
+An approach for generating dynamically updated modular [workflows](Workflow.md) that maximize parallelism and minimize [dependency complexity](Dependency%20Complexity.md)

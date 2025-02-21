@@ -1,1 +1,1 @@
-A piece of work to be completed, generally assigned to a particular agent or group of agents. A task is considered successful if completed and failed if attempted but not completed. 
+A piece of work to be completed, generally assigned to a particular [agent](Agent.md) or group of agents. A task is considered successful if completed and failed if attempted but not completed. 

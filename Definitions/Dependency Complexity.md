@@ -1,0 +1,1 @@
+The degree to which [tasks](Task.md) can be completed independently of other tasks.

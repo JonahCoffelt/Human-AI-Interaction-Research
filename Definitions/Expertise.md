@@ -1,1 +1,1 @@
-The degree and scope of proficiency or knowledge an agent has in a particular field.
+The degree and scope of proficiency or knowledge an [agent](Agent.md) has in a particular field.
