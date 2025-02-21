@@ -1,0 +1,1 @@
+An approach for generating modular workflows that maximize parallelism and minimize dependency complexity. 

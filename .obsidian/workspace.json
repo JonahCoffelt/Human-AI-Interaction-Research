@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Flow.md",
+                "file": "Definitions/Dependency Complexity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flow"
+              "title": "Dependency Complexity"
             }
           }
         ],
@@ -212,8 +212,9 @@
   },
   "active": "a2fa2567f71c04f6",
   "lastOpenFiles": [
-    "Literature/Security of Multi-Agent Cyber-Physical Systems.md",
     "Definitions/Flow.md",
+    "Definitions/Dependency Complexity.md",
+    "Literature/Security of Multi-Agent Cyber-Physical Systems.md",
     "Literature/Securing Agentic AI - Threats, Risks and Mitigation.md",
     "Literature/Flow – A Modular Approach to Automated Agentic Workflow Generation.md",
     "Definitions/Perception.md",
