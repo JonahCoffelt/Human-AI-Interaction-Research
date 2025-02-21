@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Untitled.md",
+                "file": "Definitions/AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "AI"
             }
           }
         ],
@@ -212,9 +212,11 @@
   },
   "active": "a2fa2567f71c04f6",
   "lastOpenFiles": [
-    "Definitions/AI.md",
-    "Definitions/Untitled.md",
     "Detailed Notes/Definitions.md",
+    "Definitions/Task.md",
+    "Definitions/Workflow.md",
+    "Definitions/Agent.md",
+    "Definitions/AI.md",
     "Definitions",
     "Meeting Notes/02-18-25.md",
     "Detailed Notes",
