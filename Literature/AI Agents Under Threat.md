@@ -16,3 +16,10 @@ The paper identifies four knowledge gaps in AI agent security:
 	- Variability in the environment the AI agent is acting, specifically from development to deployment, in can produce inconsistent and potentially dangerous results.
 4. Interactions with untrusted external entities
 	- Current AI agent interaction processes assumes a trusted external agent. This opens may attack surfaces, such as prompt injection.
+
+# Terminology
+In relation to an AI agent:
+- **Input Formatter**: A tool used to enhance the quality of input. Used in perception
+- **Reasoning**: An LLM designed to analyze and deduce information to draw conclusions from given prompts. 
+- **Planning**: An LLM designed to devise strategies and make decisions by evaluating possible outcomes. 
+- **Brain**: The combination of reasoning and planning LLMs.
