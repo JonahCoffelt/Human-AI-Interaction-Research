@@ -25,3 +25,6 @@ In relation to an AI agent:
 - **Brain**: The combination of reasoning and planning LLMs.
 
 # Intra-execution Security
+Relating to gap 1 and 2
+
+## Threats on perception
