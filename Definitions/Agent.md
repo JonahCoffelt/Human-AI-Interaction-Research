@@ -1,0 +1,1 @@
+A person or thing that takes autonomous physical or symbolic actions, resulting in an effect in a particular environment. 

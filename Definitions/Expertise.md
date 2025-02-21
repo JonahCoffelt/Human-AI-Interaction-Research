@@ -1,0 +1,1 @@
+The degree and scope of proficiency or knowledge an agent has in a particular field.
