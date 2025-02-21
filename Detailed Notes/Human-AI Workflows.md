@@ -11,6 +11,5 @@ Our aim is to mitigate the [risk](Definitions/Risk.md) of conflict in human-AI w
 There are several considerations taken into account in our solution:
 1. Assignment of tasks should be curated to the [Expertise](Expertise.md) of the given agents.
 2. There should be human-AI redundancy in order to mitigate both human and AI failures
-3. Where there is redundancy, the inputs from humans and AI should be weighed according to circumstance and agent expertise
+3. Where there is redundancy, the inputs from humans and AI should be weighed according to circumstance, agent type, and agent expertise
 # Model
-
