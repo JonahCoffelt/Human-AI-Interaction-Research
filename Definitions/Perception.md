@@ -1,0 +1,1 @@
+The ability to take in data through sensory input from an environment.

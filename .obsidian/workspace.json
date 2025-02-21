@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Workflow.md",
+                "file": "Definitions/Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Workflow"
+              "title": "Flow"
             }
           }
         ],
@@ -212,21 +212,22 @@
   },
   "active": "a2fa2567f71c04f6",
   "lastOpenFiles": [
-    "Definitions/Expertise.md",
-    "Definitions/Perception.md",
-    "Definitions/Task.md",
-    "Definitions/Workflow.md",
-    "Definitions/AI.md",
-    "Definitions/Agent.md",
-    "Literature/A risk-based model for human-artificial intelligence conflict resolution in process systems.md",
+    "Literature/Security of Multi-Agent Cyber-Physical Systems.md",
+    "Definitions/Flow.md",
+    "Literature/Securing Agentic AI - Threats, Risks and Mitigation.md",
     "Literature/Flow – A Modular Approach to Automated Agentic Workflow Generation.md",
+    "Definitions/Perception.md",
+    "Definitions/Expertise.md",
+    "Definitions/Agent.md",
+    "Definitions/AI.md",
+    "Definitions/Workflow.md",
+    "Definitions/Task.md",
+    "Literature/A risk-based model for human-artificial intelligence conflict resolution in process systems.md",
     "Detailed Notes/Definitions.md",
     "Definitions",
     "Meeting Notes/02-18-25.md",
     "Detailed Notes",
     "Literature/AI Agents Under Threat.md",
-    "Literature/Security of Multi-Agent Cyber-Physical Systems.md",
-    "Literature/Securing Agentic AI - Threats, Risks and Mitigation.md",
     "Images/Pasted image 20250214002956.png",
     "Images/Pasted image 20250218075137.png",
     "Literature/Artificial intelligence – Human intelligence conflict and its impact on process system safety.md",
