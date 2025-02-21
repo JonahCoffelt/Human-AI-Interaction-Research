@@ -15,4 +15,4 @@ The paper identifies four knowledge gaps in AI agent security:
 3. Variability of operational environments
 	- Variability in the environment the AI agent is acting, specifically from development to deployment, in can produce inconsistent and potentially dangerous results.
 4. Interactions with untrusted external entities
-	- 
+	- Current AI agent interaction processes assumes a trusted external agent. This opens may attack surfaces, such as prompt injection.
