@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Flow.md",
+                "file": "Meeting Notes/02-25-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flow"
+              "title": "02-25-25"
             }
           }
         ]
@@ -197,10 +197,11 @@
   },
   "active": "624ef884eb209758",
   "lastOpenFiles": [
+    "Definitions/Flow.md",
+    "Meeting Notes/02-25-25.md",
     "Definitions/Risk.md",
     "Detailed Notes/Working on Paper.md",
     "Definitions/Task.md",
-    "Definitions/Flow.md",
     "Literature/A risk-based model for human-artificial intelligence conflict resolution in process systems.md",
     "Literature/Securing Agentic AI - Threats, Risks and Mitigation.md",
     "Literature/AI Agents Under Threat.md",
@@ -226,7 +227,6 @@
     "Detailed Notes",
     "Images/Pasted image 20250214002956.png",
     "Images/Pasted image 20250218075137.png",
-    "Literature/Towards Modeling Human-Agentic Collaborative Workflows – A BPMN Extension.md",
     "Images",
     "Pasted image 20250203210358.png",
     "Images/20250203210646.png",
