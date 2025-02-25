@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Detailed Notes/Working on Paper.md",
+                "file": "Definitions/Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Working on Paper"
+              "title": "Flow"
             }
           }
         ]
@@ -197,9 +197,10 @@
   },
   "active": "624ef884eb209758",
   "lastOpenFiles": [
+    "Definitions/Risk.md",
+    "Detailed Notes/Working on Paper.md",
     "Definitions/Task.md",
     "Definitions/Flow.md",
-    "Detailed Notes/Working on Paper.md",
     "Literature/A risk-based model for human-artificial intelligence conflict resolution in process systems.md",
     "Literature/Securing Agentic AI - Threats, Risks and Mitigation.md",
     "Literature/AI Agents Under Threat.md",
@@ -207,7 +208,6 @@
     "Literature/Flow – A Modular Approach to Automated Agentic Workflow Generation.md",
     "Detailed Notes/Human-AI Workflows.md",
     "Definitions/Workflow.md",
-    "Definitions/Risk.md",
     "Definitions/Agent.md",
     "Meeting Notes/02-21-25.md",
     "Definitions/Perception.md",
