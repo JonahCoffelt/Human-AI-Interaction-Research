@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting Notes/02-25-25.md",
+                "file": "Meeting Notes/03-04-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-25-25"
+              "title": "03-04-25"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "624ef884eb209758",
   "lastOpenFiles": [
-    "Meeting Notes/02-21-25.md",
     "Meeting Notes/02-25-25.md",
+    "Meeting Notes/03-04-25.md",
+    "Meeting Notes/02-21-25.md",
     "Literature/Flow – A Modular Approach to Automated Agentic Workflow Generation.md",
     "Definitions/Flow.md",
     "Definitions/Risk.md",
@@ -222,7 +223,6 @@
     "Literature/Security of Multi-Agent Cyber-Physical Systems.md",
     "README.md",
     "Detailed Notes/Definitions.md",
-    "Dependency_Complexity.md",
     "Definitions",
     "Detailed Notes",
     "Images/Pasted image 20250214002956.png",
