@@ -19,3 +19,4 @@ Multi-Agent Systems, or MAS, are distributed systems, composed of a number of au
 - How they interact with other social organizations
 - Degree of agent cooperation
 
+Agents communicate with an Agent Communication Language (ACL), which specifies message semantics of content and communication context.
