@@ -20,3 +20,8 @@ Multi-Agent Systems, or MAS, are distributed systems, composed of a number of au
 - Degree of agent cooperation
 
 Agents communicate with an Agent Communication Language (ACL), which specifies message semantics of content and communication context.
+
+MAS need to be supported by generic distributed computer infrastructure, or set of middleware services. Agents need an execution environment in which they can invoke services and transport messages. This is provided by the agent's Information Communication Technology (ICT) environment, often called the MAS platform. 
+
+Agents and agent platforms are often heterogeneous, presenting a major challenge. Thus the paper seeks to provide public and standard specifications for MAS.
+
