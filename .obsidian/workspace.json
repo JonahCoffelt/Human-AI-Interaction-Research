@@ -35,8 +35,7 @@
               "title": "Specifying Protocols for Multi-Agent Systems Interaction"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,10 +209,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8a103e1855826311",
+  "active": "624ef884eb209758",
   "lastOpenFiles": [
-    "Meeting Notes/03-21-25.md",
     "Literature/Specifying Protocols for Multi-Agent Systems Interaction.md",
+    "Meeting Notes/03-21-25.md",
     "Meeting Notes/03-18-25.md",
     "Meeting Notes/02-03-25.md",
     "Literature/Flow – A Modular Approach to Automated Agentic Workflow Generation.md",
