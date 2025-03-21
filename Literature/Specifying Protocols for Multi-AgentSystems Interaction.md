@@ -25,3 +25,5 @@ MAS need to be supported by generic distributed computer infrastructure, or set 
 
 Agents and agent platforms are often heterogeneous, presenting a major challenge. Thus the paper seeks to provide public and standard specifications for MAS.
 
+# Specifying MAS Content and Context Exchange
+## MAS Properties
