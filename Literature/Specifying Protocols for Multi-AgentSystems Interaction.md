@@ -4,7 +4,7 @@ tags:
 title: Specifying Protocols for Multi-AgentSystems Interaction
 author: STEFAN POSLAD
 year: 2007
-link:
+link: https://dl.acm.org/doi/10.1145/1293731.1293735
 ---
 # Motivation
 Multi-Agent Systems, or MAS, are distributed systems, composed of a number of autonomous software entities called agents. MAS have internal behaviors and external interactions between agents.
@@ -23,7 +23,7 @@ Agents communicate with an Agent Communication Language (ACL), which specifies m
 
 MAS need to be supported by generic distributed computer infrastructure, or set of middleware services. Agents need an execution environment in which they can invoke services and transport messages. This is provided by the agent's Information Communication Technology (ICT) environment, often called the MAS platform. 
 
-Agents and agent platforms are often heterogeneous, presenting a major challenge. Thus the paper seeks to provide public and standard specifications for MAS.
+Agents and agent platforms are often heterogeneous, presenting a major challenge. Thus the paper seeks to summarize and critique the public and standard specifications for MAS outlined by FIPA.
 
 # Specifying MAS Content and Context Exchange
 ## MAS Properties
