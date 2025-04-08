@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting Notes/04-03-2025.md",
+                "file": "Meeting Notes/04-08-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-03-2025"
+              "title": "04-08-2025"
             }
           },
           {
@@ -211,8 +211,9 @@
   },
   "active": "624ef884eb209758",
   "lastOpenFiles": [
-    "Meeting Notes/03-21-25.md",
     "Meeting Notes/04-03-2025.md",
+    "Meeting Notes/04-08-2025.md",
+    "Meeting Notes/03-21-25.md",
     "Literature/Specifying Protocols for Multi-Agent Systems Interaction.md",
     "Pasted image 20250321112002.png",
     "Meeting Notes/02-25-25.md",
@@ -237,7 +238,6 @@
     "Literature/Artificial intelligence – Human intelligence conflict and its impact on process system safety.md",
     "Detailed Notes/Human-AI Workflows.md",
     "Definitions/Perception.md",
-    "Definitions/Dependency Complexity.md",
     "Definitions",
     "Detailed Notes",
     "Images/Pasted image 20250214002956.png",
