@@ -12,6 +12,7 @@ people: Jonah Coffelt
 	- [ ] Dynamic features
 	- [ ] **Performance**
 		- [ ] Time series of actions
+		- [ ] Connect with Ben
 - [ ] On the catalog set the type of message in line with FIPA
 - [ ] Set up a task workflow for software design
 	- [ ] And use that as a skeleton
