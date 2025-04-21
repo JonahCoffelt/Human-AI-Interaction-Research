@@ -12,7 +12,7 @@ people: Jonah Coffelt
 	- [ ] Dynamic features
 	- [ ] **Performance**
 		- [ ] Time series of actions
-- [ ] On the cataloger set the type of message in line with FIPA
+- [ ] On the cataloge set the type of message in line with FIPA
 - [ ] Set up a task workflow for software design
 	- [ ] And use that as a skeleton
 - [ ] Assume task is broken but talk about LANNG
