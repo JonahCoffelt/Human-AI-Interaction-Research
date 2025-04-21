@@ -12,3 +12,4 @@ people: Jonah Coffelt
 	- [ ] 
 - [ ] Set up a task workflow for software design
 	- [ ] And use that as a 
+- [ ] Assume task is broken but 
