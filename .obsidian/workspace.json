@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Flow – A Modular Approach to Automated Agentic Workflow Generation.md",
+                "file": "Meeting Notes/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flow – A Modular Approach to Automated Agentic Workflow Generation"
+              "title": "Untitled"
             }
           },
           {
@@ -211,10 +211,11 @@
   },
   "active": "624ef884eb209758",
   "lastOpenFiles": [
+    "Literature/Flow – A Modular Approach to Automated Agentic Workflow Generation.md",
+    "Meeting Notes/Untitled.md",
     "Literature/A risk-based model for human-artificial intelligence conflict resolution in process systems.md",
     "Literature/AI Agents Under Threat.md",
     "Literature/Artificial intelligence – Human intelligence conflict and its impact on process system safety.md",
-    "Literature/Flow – A Modular Approach to Automated Agentic Workflow Generation.md",
     "Literature/Securing Agentic AI - Threats, Risks and Mitigation.md",
     "Meeting Notes/04-08-2025.md",
     "Meeting Notes/04-03-2025.md",
@@ -237,7 +238,6 @@
     "Detailed Notes/Working on Paper.md",
     "Definitions/Task.md",
     "Detailed Notes/Human-AI Workflows.md",
-    "Definitions/Perception.md",
     "Definitions",
     "Detailed Notes",
     "Images/Pasted image 20250214002956.png",
