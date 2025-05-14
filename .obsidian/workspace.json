@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Specifying Protocols for Multi-Agent Systems Interaction.md",
+                "file": "Meeting Notes/Name.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Specifying Protocols for Multi-Agent Systems Interaction"
+              "title": "Name"
             }
           },
           {
@@ -226,8 +226,9 @@
   },
   "active": "d0cb4ea2da559377",
   "lastOpenFiles": [
-    "Literature/Securing Agentic AI - Threats, Risks and Mitigation.md",
     "Literature/Specifying Protocols for Multi-Agent Systems Interaction.md",
+    "Meeting Notes/Name.md",
+    "Literature/Securing Agentic AI - Threats, Risks and Mitigation.md",
     "Literature/Flow – A Modular Approach to Automated Agentic Workflow Generation.md",
     "Literature/Artificial intelligence – Human intelligence conflict and its impact on process system safety.md",
     "Literature/AI Agents Under Threat.md",
@@ -252,7 +253,6 @@
     "Definitions/Risk.md",
     "Detailed Notes/Working on Paper.md",
     "Definitions/Task.md",
-    "Detailed Notes/Human-AI Workflows.md",
     "Definitions",
     "Detailed Notes",
     "Images/Pasted image 20250214002956.png",
