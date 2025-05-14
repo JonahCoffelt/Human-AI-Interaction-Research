@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting Notes/Name.md",
+                "file": "Meeting Notes/04-08-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Name"
+              "title": "04-08-2025"
             }
           },
           {
@@ -226,18 +226,19 @@
   },
   "active": "d0cb4ea2da559377",
   "lastOpenFiles": [
-    "Literature/Specifying Protocols for Multi-Agent Systems Interaction.md",
+    "README.md",
+    "Pasted image 20250321112002.png",
+    "Meeting Notes/04-08-2025.md",
+    "Meeting Notes/04-03-2025.md",
     "Meeting Notes/Name.md",
+    "Literature/Specifying Protocols for Multi-Agent Systems Interaction.md",
     "Literature/Securing Agentic AI - Threats, Risks and Mitigation.md",
     "Literature/Flow – A Modular Approach to Automated Agentic Workflow Generation.md",
     "Literature/Artificial intelligence – Human intelligence conflict and its impact on process system safety.md",
     "Literature/AI Agents Under Threat.md",
     "Literature/A risk-based model for human-artificial intelligence conflict resolution in process systems.md",
-    "Meeting Notes/04-03-2025.md",
-    "Meeting Notes/04-08-2025.md",
     "Meeting Notes/Untitled.md",
     "Meeting Notes/03-21-25.md",
-    "Pasted image 20250321112002.png",
     "Meeting Notes/02-25-25.md",
     "Meeting Notes/02-21-25.md",
     "Meeting Notes/02-14-25.md",
@@ -252,7 +253,6 @@
     "Definitions/Flow.md",
     "Definitions/Risk.md",
     "Detailed Notes/Working on Paper.md",
-    "Definitions/Task.md",
     "Definitions",
     "Detailed Notes",
     "Images/Pasted image 20250214002956.png",
