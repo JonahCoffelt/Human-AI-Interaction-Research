@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting Notes/Cyber Meeting.md",
+                "file": "Literature/Flow – A Modular Approach to Automated Agentic Workflow Generation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cyber Meeting"
+              "title": "Flow – A Modular Approach to Automated Agentic Workflow Generation"
             }
           },
           {
@@ -226,8 +226,13 @@
   },
   "active": "d0cb4ea2da559377",
   "lastOpenFiles": [
-    "Templates/Meeting.md",
+    "Literature/A risk-based model for human-artificial intelligence conflict resolution in process systems.md",
+    "Literature/AI Agents Under Threat.md",
+    "Literature/Artificial intelligence – Human intelligence conflict and its impact on process system safety.md",
+    "Literature/Specifying Protocols for Multi-Agent Systems Interaction.md",
+    "Literature/Securing Agentic AI - Threats, Risks and Mitigation.md",
     "Meeting Notes/Cyber Meeting.md",
+    "Templates/Meeting.md",
     "Templates/Literature.md",
     "Meeting Notes/06-17-25.md",
     "Meeting Notes/Work Notes 06-13-25.md",
@@ -236,11 +241,6 @@
     "Meeting Notes/06-12-25.md",
     "Meeting Notes/Name.md",
     "Meeting Notes/Untitled.md",
-    "Literature/Artificial intelligence – Human intelligence conflict and its impact on process system safety.md",
-    "Literature/AI Agents Under Threat.md",
-    "Literature/Specifying Protocols for Multi-Agent Systems Interaction.md",
-    "Literature/Securing Agentic AI - Threats, Risks and Mitigation.md",
-    "Literature/A risk-based model for human-artificial intelligence conflict resolution in process systems.md",
     "README.md",
     "Pasted image 20250321112002.png",
     "Literature/Flow – A Modular Approach to Automated Agentic Workflow Generation.md",
