@@ -31,4 +31,11 @@ This paper identifies 5 personality traits that correlate with personal career s
 - We could hone in on the reliable aspect; this could simple be how accurate the agent is generally. 
 
 ## Application
-My thought is that we could collect data for this
+My thought is that we could collect data for these traits as the workflow progresses and have them influence the conflict resolution block. For example:
+- Agents with high **extraversion** could have adjusted confidence values
+- Agents with high **openness** could be asked to provide alternative solutions or ideas
+- Agents high **agreeableness** could be asked to further explain their conclusion so that they are not unfairly overridden 
+- Agents with high **conscientiousness** could be weighted better in an override situation
+
+## Potential Issues
+The papers specifically notes that these characteristics are tied to career success as it pertains to occupational prestige, income, and job satisfaction. These may not be the things we want to maximize in our workflow.  
