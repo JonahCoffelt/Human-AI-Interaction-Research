@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting Notes/07-11-25.md",
+                "file": "Meeting Notes/Personality Traits Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07-11-25"
+              "title": "Personality Traits Note"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e4af823a7b37355c",
@@ -197,8 +198,9 @@
   },
   "active": "d0cb4ea2da559377",
   "lastOpenFiles": [
-    "Literature/Flow – A Modular Approach to Automated Agentic Workflow Generation.md",
     "Meeting Notes/07-11-25.md",
+    "Meeting Notes/Personality Traits Note.md",
+    "Literature/Flow – A Modular Approach to Automated Agentic Workflow Generation.md",
     "Literature/A risk-based model for human-artificial intelligence conflict resolution in process systems.md",
     "Literature/AI Agents Under Threat.md",
     "Literature/Artificial intelligence – Human intelligence conflict and its impact on process system safety.md",
@@ -223,7 +225,6 @@
     "Meeting Notes/02-18-25.md",
     "Meeting Notes/03-18-25.md",
     "Meeting Notes/02-03-25.md",
-    "Meeting Notes/03-04-25.md",
     "Definitions",
     "Detailed Notes",
     "Images/Pasted image 20250214002956.png",
