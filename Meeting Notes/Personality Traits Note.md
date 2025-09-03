@@ -1,9 +1,9 @@
 ---
 tags:
   - "#literature"
-title: 
-author: 
-year: 
+title:
+author:
+year:
 link: https://pmc.ncbi.nlm.nih.gov/articles/PMC2747784/
 ---
 This paper identifies 5 personality traits that correlate with personal career success. We have had some desire to include notions of trust in our frame work, and I think this categorization gets at a similar idea in a different way.
